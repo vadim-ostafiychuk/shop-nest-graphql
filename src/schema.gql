@@ -3,5 +3,5 @@
 # ------------------------------------------------------
 
 type Query {
-  getUser: String!
+  getHello: String!
 }
